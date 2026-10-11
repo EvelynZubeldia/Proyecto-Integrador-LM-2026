@@ -1,1 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--XML con la información de mis películas de terror favoritas-->
+<peliculas propietaria="EvelynZubeldia">
+    <pelicula id="01">
+        <titulo>SAW</titulo>
+        <director>James Wan</director>
+        <duracion unidad="min">103.0</duracion>
+        <sinopsis>dos hombres despiertan encadenados en un baño abandonado y descubren 
+            que son víctimas de un juego macabro creado por un asesino en serie llamado Jigsaw. 
+            Para sobrevivir, deberán resolver sus enigmas y enfrentarse a decisiones 
+            extremas antes de que se les acabe el tiempo.
+        </sinopsis>
+        <destacado/>
+    </pelicula>
+    
+    <pelicula id="02">
+        <titulo>Terrifier</titulo>
+        <director>Damien Leone</director>
+        <duracion unidad="min">85.0</duracion>
+        <sinopsis>dos amigas se cruzan con Art el Payaso, un asesino sádico y 
+            aterrador que comienza a perseguirlas durante la noche de Halloween. 
+            Lo que parecía una noche normal se convierte 
+            en una auténtica pesadilla llena de violencia y terror.
+        </sinopsis>
+    </pelicula>
+
+    <pelicula id="03">
+        <titulo>Expediente Warren</titulo>
+        <director>James Wan</director>
+        <duracion unidad="min">112.0</duracion>
+        <sinopsis>los investigadores paranormales Ed y Lorraine Warren ayudan a una familia 
+            que vive en una casa donde ocurren fenómenos sobrenaturales aterradores. 
+            Al investigar, descubren que una presencia maligna amenaza con destruirlos y 
+            deberán enfrentarse a una fuerza demoníaca para salvarlos.
+        </sinopsis>
+    </pelicula>
+</peliculas>
