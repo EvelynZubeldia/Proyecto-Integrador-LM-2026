@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--XML con la información de mis películas de terror favoritas-->
-<peliculas propietaria="EvelynZubeldia">
+<peliculas propietario="EvelynZubeldia">
     <pelicula id="01">
         <titulo>SAW</titulo>
         <director>James Wan</director>
