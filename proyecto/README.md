@@ -27,3 +27,7 @@ Tema Elegido: Página web dedicada al cine de terror y suspenso.
 |saw.html       |    SAW | Pelis de Halloween            |Información de las 10 películas de la saga.                                                            |
 |terrifier.html |Terrifier | Pelis de Halloween          |Información de las 3 películas de la saga.                                                             |
 |warren.html    | Expediente Warren | Pelis de Halloween |Información de las 4 películas de la saga.                                                             | 
+
+★ El único error que tuve en todas las páginas después de pasarlas por validator w3 fue que había puesto html lang="en" cuando tendría que ser html lang="es".
+
+★ Qué he hecho en esta unidad: En esta unidad he completado mi sitio web «Pelis de Halloween», estructurando las páginas principales (SAW, Terrifier y Expediente Warren) y la sección de contacto mediante bloques y etiquetas semánticas. Además, he aplicado metadatos avanzados, entidades HTML y elementos decorativos para mejorar el aspecto visual de la web y cumplir con todos los requisitos y retos del proyecto. 
