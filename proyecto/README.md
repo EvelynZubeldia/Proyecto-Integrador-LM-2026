@@ -21,6 +21,7 @@ Tema Elegido: Página web dedicada al cine de terror y suspenso.
 
 ★ Mapa del sitio
 |    FICHERO    |            TITLE                       |                                        QUE CONTIENE                                                   |
+|---------------|----------------------------------------|-------------------------------------------------------------------------------------------------------|
 |index.html     |   Inicio | Pelis de Halloween          |Presentación, bienvenida, lista de películas favoritas, frases de películas y una breve ficha técnica. |
 |datos.html     |   Datos | Pelis de Halloween           |Contenido detallado de datos.xml.                                                                      |
 |quiensoy.html  |Quien soy | Pelis de Halloween          |Información sobre la creadora de la página y el origen de esta.                                        |
