@@ -20,13 +20,13 @@ Tema Elegido: Página web dedicada al cine de terror y suspenso.
     Tambien es necesario añadirle una jerarquía de titulos estricta y elementos avanzados (como citas o fichas técnicas).
 
 ★ Mapa del sitio
-|    FICHERO    |            TITLE                       |                                        QUE CONTIENE                                                   |
-|---------------|----------------------------------------|-------------------------------------------------------------------------------------------------------|
+|    FICHERO    |            TITLE                        |                                        QUE CONTIENE                                                   |
+|---------------|-----------------------------------------|-------------------------------------------------------------------------------------------------------|
 |index.html     |   Inicio /| Pelis de Halloween          |Presentación, bienvenida, lista de películas favoritas, frases de películas y una breve ficha técnica. |
 |datos.html     |   Datos /| Pelis de Halloween           |Contenido detallado de datos.xml.                                                                      |
-|quiensoy.html  |Quien soy /| Pelis de Halloween          |Información sobre la creadora de la página y el origen de esta.                                        |
+|quiensoy.html  |   Quien soy /| Pelis de Halloween       |Información sobre la creadora de la página y el origen de esta.                                        |
 |saw.html       |    SAW /| Pelis de Halloween            |Información de las 10 películas de la saga.                                                            |
-|terrifier.html |Terrifier /| Pelis de Halloween          |Información de las 3 películas de la saga.                                                             |
+|terrifier.html |   Terrifier /| Pelis de Halloween       |Información de las 3 películas de la saga.                                                             |
 |warren.html    | Expediente Warren /| Pelis de Halloween |Información de las 4 películas de la saga.                                                             | 
 
 ★ El único error que tuve en todas las páginas después de pasarlas por validator w3 fue que había puesto html lang="en" cuando tendría que ser html lang="es".
