@@ -1,6 +1,6 @@
 Proyecto: Página Web de Películas de Terror 
 
-★ Palabra del día: contexto
+★ Palabra del día: día
 
 Nombre y Apellidos: Evelyn Zubeldia González
 
