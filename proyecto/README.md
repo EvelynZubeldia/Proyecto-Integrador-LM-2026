@@ -32,3 +32,9 @@ Tema Elegido: Página web dedicada al cine de terror y suspenso.
 ★ El único error que tuve en todas las páginas después de pasarlas por validator w3 fue que había puesto html lang="en" cuando tendría que ser html lang="es".
 
 ★ Qué he hecho en esta unidad: En esta unidad he completado mi sitio web «Pelis de Halloween», estructurando las páginas principales (SAW, Terrifier y Expediente Warren) y la sección de contacto mediante bloques y etiquetas semánticas. Además, he aplicado metadatos avanzados, entidades HTML y elementos decorativos para mejorar el aspecto visual de la web y cumplir con todos los requisitos y retos del proyecto. 
+
+★ Se utiliza el método post en lugar de get porque los datos personales introducidos en el formulario de contacto viajan ocultos y seguros, evitando que se vean en la URL.
+
+★ URL que aparece en la barra del navegador al cambiar a method="get": 
+    file:///C:/Users/Usuario1/Desktop/Proyecto_Integrador_LM_2026/Proyecto-Integrador-LM-2026/proyecto/quiensoy.html?nombre=Evelyn&correo=aezubeldia20%40iesvcentenario.org&telefono=000000000&saga=saw&extras=newsletter&extras=newsletter&origen=busqueda&msg=Hola+%3A%29+Viernes+13+tambi%C3%A9n+es+una+buena+saga.#
+
